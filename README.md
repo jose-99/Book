@@ -1,2 +1,2 @@
-# Book
-Book with chapters 
+# Story
+Story with chapters 
